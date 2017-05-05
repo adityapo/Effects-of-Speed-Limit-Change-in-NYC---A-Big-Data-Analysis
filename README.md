@@ -1,2 +1,4 @@
 # Effects-of-Speed-Limit-Change-in-NYC---A-Big-Data-Analysis
 Analysis of speed limit change from 30mph to 25mph for the City of New York imposed in 2014 using Collision, Violation and NYC Taxi Trip data
+
+Speeding limits in NYC were changed in 2014. However, the tendency of motorists to maintain new speeds may not have changed immediately. There may have been drivers who immediately took care of this change whereas some may have still been stuck to their old habits (older speed limits followed on particular roads). This may have caused accidents. Our analytics will determine whether the change in speeds, which were primarily to reduce the number of accidents raised the chances of the occurrence of an accident. If it did so initially, did the count come down with time? After a period of one year after the change did the number of accidents reduce in comparison to the previous year?
